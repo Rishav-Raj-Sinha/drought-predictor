@@ -1,0 +1,16 @@
+languages = [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Telugu",
+    "Marathi",
+    "Tamil",
+    "Urdu",
+    "Gujarati",
+    "Kannada",
+    "Odia",
+    "Punjabi",
+    "Malayalam",
+    "Assamese",
+    "Manipuri",
+]

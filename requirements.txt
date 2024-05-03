@@ -4,3 +4,6 @@ streamlit_folium
 googletrans
 pandas
 folium
+prophet
+json
+streamlit_extras.switch_page_button
